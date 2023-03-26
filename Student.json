@@ -4,6 +4,7 @@
 			"firstName": "Anna",
 			"lastName": "Goncharova"
 		},
+	    "job": "QA Automation",
 		"age": 19,
 		"married": true,
 		"taxId": null,
@@ -22,7 +23,6 @@
 			"Jan": 10
 		}, {
 			"Eva": 8
-		}],
-		"job": "QA Automation"
+		}]
 	}
 }

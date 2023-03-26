@@ -1,0 +1,30 @@
+---
+Student:
+  Name:
+    firstName: Anna
+    lastName: Goncharova
+  job: QA Automation
+  age: 19
+  married: true
+  taxId:
+  friends:
+  - Mary
+  - Katie
+  - Leo
+  - Mike
+  neighbors:
+    room11:
+    - Ala
+    - Tom
+    room13:
+    - Marta
+    - Luke
+  address:
+    country: USA
+    city: California
+    zip: '00789'
+    postal: true
+  kids:
+  - Jan: 10
+  - Eva: 8
+
