@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Student>
+  <Name>
+    <firstName>Anna</firstName>
+    <lastName>Goncharova</lastName>
+  </Name>
+  <job>QA Automation</job>
+  <age>19</age>
+  <married>true</married>
+  <taxId/>
+  <friends>Mary</friends>
+  <friends>Katie</friends>
+  <friends>Leo</friends>
+  <friends>Mike</friends>
+  <neighbors>
+    <room11>Ala</room11>
+    <room11>Tom</room11>
+    <room13>Marta</room13>
+    <room13>Luke</room13>
+  </neighbors>
+  <address>
+    <country>USA</country>
+    <city>California</city>
+    <zip>00789</zip>
+    <postal>true</postal>
+  </address>
+  <kids>
+    <Jan>10</Jan>
+  </kids>
+  <kids>
+    <Eva>8</Eva>
+  </kids>
+</Student>
