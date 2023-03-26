@@ -25,6 +25,6 @@ Student:
     zip: '00789'
     postal: true
   kids:
-  - Jan: 10
+  - Jan: 12
   - Eva: 8
 
