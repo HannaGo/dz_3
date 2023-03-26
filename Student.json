@@ -1,0 +1,28 @@
+{
+	"Student": {
+		"Name": {
+			"firstName": "Anna",
+			"lastName": "Goncharova"
+		},
+		"age": 19,
+		"married": true,
+		"taxId": null,
+		"friends": ["Mary", "Katie", "Leo", "Mike"],
+		"neighbors": {
+			"room11": ["Ala", "Tom"],
+			"room13": ["Marta", "Luke"]
+		},
+		"address": {
+			"country": "USA",
+			"city": "California",
+			"zip": "00789",
+			"postal": true
+		},
+		"kids": [{
+			"Jan": 10
+		}, {
+			"Eva": 8
+		}],
+		"job": "QA Automation"
+	}
+}
